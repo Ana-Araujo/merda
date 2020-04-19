@@ -1,11 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
 import { Observable } from 'rxjs';
-<<<<<<< HEAD
 import { ApiService } from '../../services/api.service';
-=======
-import { ApiService } from '../../sevices/api.service';
->>>>>>> 0d1c34675525b1e9da05218721bd6ba46317396b
 
 @Component({
     selector: 'app-episode-details',
@@ -27,8 +23,4 @@ export class EpisodeDetailsPage implements OnInit {
             console.log(JSON.stringify(this.episodeId.episode_id));
         });
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0d1c34675525b1e9da05218721bd6ba46317396b

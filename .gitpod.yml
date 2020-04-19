@@ -1,7 +1,4 @@
 tasks:
   - name: Installing Ionic 5 & Cordova
     command: npm install -g @ionic/cli cordova && cd mobdev-ca2
-<<<<<<< HEAD
     
-=======
->>>>>>> 0d1c34675525b1e9da05218721bd6ba46317396b
