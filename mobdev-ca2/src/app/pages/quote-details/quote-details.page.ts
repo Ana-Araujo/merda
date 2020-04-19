@@ -20,7 +20,7 @@ export class QuotesPage implements OnInit {
     
     });
   }
-  openDetail(characters){
+  openDetail(deaths){
       let quotes_author = name;
       this.router.navigateByUrl('/tabs/quotes/${quotesAuthor}');
   }

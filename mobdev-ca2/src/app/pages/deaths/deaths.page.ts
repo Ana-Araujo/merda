@@ -8,7 +8,7 @@ import { ApiService } from '../../services/api.service';
   styleUrls: ['./deaths.page.scss'],
 })
 
-export class DeathssPage implements OnInit {
+export class DeathsPage implements OnInit {
 
     deaths: Observable<any>;
 
