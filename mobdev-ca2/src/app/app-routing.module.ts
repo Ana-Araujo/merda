@@ -13,4 +13,8 @@ const routes: Routes = [
   ],
   exports: [RouterModule]
 })
+<<<<<<< HEAD
 export class AppRoutingModule { }
+=======
+export class AppRoutingModule { }
+>>>>>>> 0d1c34675525b1e9da05218721bd6ba46317396b

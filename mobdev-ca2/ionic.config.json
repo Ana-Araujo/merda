@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mobdev-app",
+=======
+  "name": "mobdev-ca2",
+>>>>>>> 0d1c34675525b1e9da05218721bd6ba46317396b
   "integrations": {},
   "type": "angular"
 }
